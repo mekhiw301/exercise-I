@@ -1,0 +1,45 @@
+
+   
+ #meme-form {  
+    margin-bottom: 20px;  
+ }  
+   
+ #meme-container {  
+    position: relative;  
+ }  
+   
+ #meme-image {  
+    width: 100%;  
+    height: auto;  
+ }  
+   
+ #top-text-container, #bottom-text-container {  
+    position: absolute;  
+    font-size: 50px;  
+    font-weight: bold;  
+    color: #fff;  
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);  
+ }  
+   
+ #top-text-container {  
+    top: 10px;  
+    left: 10px;  
+ }  
+
+ .meme-generator {
+    margin: 20px auto;
+    width: 400px;
+    font-family: sans-serif;
+  }
+  
+  .meme-generator label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .meme-generator input {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
